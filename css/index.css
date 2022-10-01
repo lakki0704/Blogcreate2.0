@@ -1,0 +1,47 @@
+.contact{
+    color: white;
+    background-color: aliceblue;
+    text-decoration-color: aliceblue;
+    border-color: aliceblue;
+}
+
+.secondsection
+{
+    background-color: black;
+}
+
+.highlight{
+    color: rgb(1, 51, 52);
+}
+
+
+.card-img-top {
+    width: 60%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .card {
+    padding: 1.5em 0.5em 0.5em;
+    text-align: center;
+    border-radius: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .card-title {
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  .btn-primary {
+    border-radius: 2em;
+    padding: 0.5em 1.5em;
+  }
+  
+
+
+  .card1
+  {
+    margin-left: auto;
+    margin-right: auto;
+  }
